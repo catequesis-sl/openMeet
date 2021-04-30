@@ -12,7 +12,7 @@ Since companies like MeetSpace are too expensive for small offices and such and 
 
 ### Method 1, Deploying on Heroku :-
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Fazelesswhite/openMeet)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/catequesis-sl/openMeet)
 
 ### Method 2, Deploying on your own server :-
 
